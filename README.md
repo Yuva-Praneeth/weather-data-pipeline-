@@ -10,7 +10,7 @@ This is a Automated ETL pipeline that collects daily weather data for Bangalore(
 Python | SQLite | Task Scheduler 
 Libraries:requests.sqlite3,datetime 
 
-📊 Data Collected
+##📊 Data Collected
 The pipeline tracks the following weather metrics:
 
 --Temperature (°C)
