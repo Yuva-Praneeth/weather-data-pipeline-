@@ -3,8 +3,8 @@ import json
 from datetime import datetime
 
 # Configuration
-API_KEY = "2cc0774a23b84c6e55b1c6fa9ea1a7f9"  # Replace with your actual API key
-CITY = "Bangalore"
+API_KEY = " API KEY "  # Replace with your API key
+CITY = "Place Name "   # Replace with your city(Bangalore)
 COUNTRY_CODE = "IN"
 
 def fetch_weather_data():
