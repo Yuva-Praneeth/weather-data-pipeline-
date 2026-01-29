@@ -3,7 +3,7 @@ import sqlite3
 from datetime import datetime
 
 # Configuration
-API_KEY = "2cc0774a23b84c6e55b1c6fa9ea1a7f9"
+API_KEY = "Api Key Here"
 CITY = "Bangalore"
 COUNTRY_CODE = "IN"
 DB_NAME = "weather_data.db"
